@@ -1,8 +1,8 @@
 .navbar {
+  background-color: $purple-color;
   box-shadow: 0 0 0.2em $grey-color;
   position: fixed;
   text-align: right;
-  background-color: $purple-color;
   width: 100%;
   z-index: 10;
   .navbar-item {
