@@ -245,5 +245,8 @@ DEPENDENCIES
   jekyll-theme-experiment!
   rake (~> 10.0)
 
+RUBY VERSION
+   ruby 2.4.2p198
+
 BUNDLED WITH
    1.15.4
