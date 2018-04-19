@@ -81,3 +81,4 @@ theme_jekyll-theme-experiment:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor/
