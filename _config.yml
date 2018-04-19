@@ -2,18 +2,19 @@ author: GitHub User
 name: Angelina Moreno Robledo
 
 title: Angelina Moreno Robledo
-description: >
-  Fue mi curiosidad por lo desconocido y un grupo de mujeres que buscaban insertar a más mujeres
-  en el mundo de la programación lo que hoy hace que este escribiendo estas lineas a través de un
-  tema de Jekyll que he creado con mucho cariño y con el que pretendo hacer un pequeño recopilatorio
-  sobre algunos de los experimentos que voy llevando a cabo.
-
+description:
+  <br>
+  Fue mi curiosidad por lo desconocido y un grupo de mujeres que buscan insertar a más mujeres
+  en el mundo de la programación lo que hoy hace que esté escribiendo estas líneas a través de un
+  tema de Jekyll que he creado con cariño. <b>Don't stop me now</b>.
+  <br>
+  <br>
+  En este espacio pretendo recopilar algunos de los proyectos/experimentos que voy llevando a cabo.
 
 #   If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 # http://127.0.0.1:4000
 # this means to ignore newlines until "baseurl:"
-
 
 email: your-email@domain.com
 
@@ -35,7 +36,6 @@ minima:
 # baseurl: http://127.0.0.1:4000
 header_pages:
   - index.md
-  - blog.md
 
 # Config section the home
 
