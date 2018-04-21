@@ -64,19 +64,21 @@ theme_jekyll-theme-experiment:
         img_relative_url: /assets/slack-bot.png
 
   tools:
-    - relative_url: /assets/icons/html5.svg
-    - relative_url: /assets/icons/git/git-original.svg
-    - relative_url: /assets/icons/github/github-original.svg
-    - relative_url: /assets/icons/bitbucket/bitbucket-original.svg
-    - relative_url: /assets/icons/express/express-original.svg
-    - relative_url: /assets/icons/angularjs/angularjs-original.svg
-    - relative_url: /assets/icons/javascript/javascript-original.svg
-    - relative_url: /assets/icons/mongo/mongo.svg
-    - relative_url: /assets/icons/sass/sass.svg
-    - relative_url: /assets/icons/jasmine/jasmine.svg
-    - relative_url: /assets/icons/mocha/mocha.svg
-    - relative_url: /assets/icons/ruby/ruby-original.svg
-    - relative_url: /assets/icons/heroku/heroku-original.svg
+    title: Herramientas y experiencia.
+    icons:
+      - relative_url: /assets/icons/html5.svg
+      - relative_url: /assets/icons/git/git-original.svg
+      - relative_url: /assets/icons/github/github-original.svg
+      - relative_url: /assets/icons/bitbucket/bitbucket-original.svg
+      - relative_url: /assets/icons/express/express-original.svg
+      - relative_url: /assets/icons/angularjs/angularjs-original.svg
+      - relative_url: /assets/icons/javascript/javascript-original.svg
+      - relative_url: /assets/icons/mongo/mongo.svg
+      - relative_url: /assets/icons/sass/sass.svg
+      - relative_url: /assets/icons/jasmine/jasmine.svg
+      - relative_url: /assets/icons/mocha/mocha.svg
+      - relative_url: /assets/icons/ruby/ruby-original.svg
+      - relative_url: /assets/icons/heroku/heroku-original.svg
 
 exclude:
   - Gemfile
